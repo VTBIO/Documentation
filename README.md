@@ -1,7 +1,7 @@
 # Documentation
 Vehicle to Everything Blockchain Documents
 
-- [English](TechnicalWhitePaper.md)
-- [Chinese](zh-CN/TechnicalWhitePaper.md) translated by [@dayzh](https://steemit.com/@dayzh)
+- [English](VTBWhitePaper.md)
+- [Chinese](zh-CN/VTBWhitePaper.md) 
 
 # VTBIO wiki
